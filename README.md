@@ -4,7 +4,7 @@
 - responsive for different devices.
 
 ##### Live demonstration of the project: https://vtu16964ranjankumar.github.io/playwithCounter/
-### What i learnt new ?
+### What I learnt new ?
 - document.querySelectorAll()
 - forEach()
 - addEventListener()
