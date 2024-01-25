@@ -163,7 +163,7 @@ main {
   place-items: center;
 }
 .container {
-  /* text-align: center; */
+  text-align: center;
 }
 #value {
   font-size: 6rem;
